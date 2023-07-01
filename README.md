@@ -36,7 +36,7 @@ In my research endeavors, I extensively employ machine learning and data science
 ---
 
 <h2 align="center">Tools</h2>
-I possess a strong programming background, specializing in Python and the scientific Python stack. Proficient in widely-used machine learning libraries, I employ these tools to develop robust models and perform in-depth data analysis. Additionally, I have some knowledge in JavaScript, including frameworks such as React, Three.js, and Next.js. For a demonstration see also my [portfolio website](https://portfolio-49236.web.app/) In the field of neuroimaging, I have also experience in open-source and proprietary software such as MITK, 3D Slicer, ITK Snap and the BrainLab imaging suite enabling comprehensive analysis of brain imaging data.
+I possess a strong programming background, specializing in Python and the scientific Python stack. Proficient in widely-used machine learning libraries, I employ these tools to develop robust models and perform in-depth data analysis. Additionally, I have some knowledge in JavaScript, including frameworks such as React, Three.js, and Next.js. For a demonstration see also my <a href="https://portfolio-49236.web.app/">personal portfolio</a>. In the field of neuroimaging, I have also experience in open-source and proprietary software such as MITK, 3D Slicer, ITK Snap and the BrainLab imaging suite enabling comprehensive analysis of brain imaging data.
 
 ---
 
