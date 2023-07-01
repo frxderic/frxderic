@@ -20,7 +20,8 @@ Hi, i'm Frederic, a neurosurgical resident and dedicated researcher specializing
 
 ---
 
-## Projects
+<h2 align="center">Projects</h2>
+
 ### Neuroimaging using AI
 I am part of multiple research groups and currently focusing on projects leveraging artificial intelligence to enhance neuroimaging analysis. By developing new and integrating already validated algorithms and techniques, we aim to automate the extraction and analysis of intricate neuroimaging features, enabling comprehensive investigations into brain structure and function - both pathological and physiological. With these improvements we hope to pave the way for more accurate diagnoses and personalized treatment strategies.
 
@@ -34,17 +35,17 @@ In my research endeavors, I extensively employ machine learning and data science
 
 ---
 
-## Tools
+<h2 align="center">Tools</h2>
 I possess a strong programming background, specializing in Python and the scientific Python stack. Proficient in widely-used machine learning libraries, I employ these tools to develop robust models and perform in-depth data analysis. Additionally, I have some knowledge in JavaScript, including frameworks such as React, Three.js, and Next.js. For a demonstration see also my [portfolio website](https://portfolio-49236.web.app/) In the field of neuroimaging, I have also experience in open-source and proprietary software such as MITK, 3D Slicer, ITK Snap and the BrainLab imaging suite enabling comprehensive analysis of brain imaging data.
 
 ---
 
-## Collaborations
+<h2 align="center">Collaborations</h2>
 I have had the privilege of collaborating with prestigious institutions such as the University Hospital Munich and the Mayo Clinic in Rochester. These collaborations have left a significant impression in the way i wish to conduct research and contribute to the advancements in the fields or neurosurgery, neurooncology and artificial intelligence in the healthcare domain.
 
 ---
 
-## Cooperations
+<h2 align="center">Cooperations</h2>
 If you are interested in collaborating on clinical and basic research projects, I welcome opportunities for cooperation. As Hellen Keller once said:
 `"Alone we can do so little; together we can do so much."`
 
